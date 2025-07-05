@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+streamlit-lottie
+requests
+matplotlib
+seaborn
+numpy
